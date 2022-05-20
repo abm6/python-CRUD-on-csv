@@ -20,8 +20,7 @@ Security information, terms, and definitions have been implemented properly
 pip install requirements.txt
 ```
 
-open this folder in the console
-type:
+## Running the program
 
 ```
 python main.py
