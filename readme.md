@@ -46,15 +46,15 @@ The following program is a well defined implementation of the four different lev
     The administrator is the top level. He has read/write access to all the information of the company and can also possess his very own profile. He can create, delete, update and manage the information of all the superusers. The administrator cannot access the information of the users.
 
 # Important points to note
-    * For the system to work there should be an administrator and a superuser.
+    - For the system to work there should be an administrator and a superuser.
     
-    * Only the administrator can add or delete a superuser.
+    - Only the administrator can add or delete a superuser.
 
-    * The default administrator credentials are:
-        * Username: admin
-        * Password: admin
+    - The default administrator credentials are:
+        - Username: admin
+        - Password: admin
     
-    * Log in with the administrator account with the credentials given to add a superuser.
+    - Log in with the administrator account with the credentials given to add a superuser.
 
     
     
