@@ -58,11 +58,11 @@ The following program is a well defined implementation of the four different lev
 
     
 # Screens
-<img src="https://github.com/abm6/nodejs-CRUD-on-spreadsheet/tree/main/screens/screen1.png">
-<img src="https://github.com/abm6/nodejs-CRUD-on-spreadsheet/tree/main/screens/screen2.png">
-<img src="https://github.com/abm6/nodejs-CRUD-on-spreadsheet/tree/main/screens/screen3.png">
-<img src="https://github.com/abm6/nodejs-CRUD-on-spreadsheet/tree/main/screens/screen4.png">
-<img src="https://github.com/abm6/nodejs-CRUD-on-spreadsheet/tree/main/screens/screen5.png">
-<img src="https://github.com/abm6/nodejs-CRUD-on-spreadsheet/tree/main/screens/screen6.png">
-<img src="https://github.com/abm6/nodejs-CRUD-on-spreadsheet/tree/main/screens/screen7.png">
-<img src="https://github.com/abm6/nodejs-CRUD-on-spreadsheet/tree/main/screens/screen8.png">
+<img src="https://github.com/abm6/python-CRUD-on-csv/blob/main/screens/screen1.png">
+<img src="https://github.com/abm6/python-CRUD-on-csv/blob/main/screens/screen2.png">
+<img src="https://github.com/abm6/python-CRUD-on-csv/blob/main/screens/screen3.png">
+<img src="https://github.com/abm6/python-CRUD-on-csv/blob/main/screens/screen4.png">
+<img src="https://github.com/abm6/python-CRUD-on-csv/blob/main/screens/screen5.png">
+<img src="https://github.com/abm6/python-CRUD-on-csv/blob/main/screens/screen6.png">
+<img src="https://github.com/abm6/python-CRUD-on-csv/blob/main/screens/screen7.png">
+<img src="https://github.com/abm6/python-CRUD-on-csv/blob/main/screens/screen8.png">
