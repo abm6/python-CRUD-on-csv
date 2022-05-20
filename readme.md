@@ -57,4 +57,12 @@ The following program is a well defined implementation of the four different lev
     - Log in with the administrator account with the credentials given to add a superuser.
 
     
-    
+# Screens
+<img src="https://github.com/abm6/nodejs-CRUD-on-spreadsheet/screens/screen1.png">
+<img src="https://github.com/abm6/nodejs-CRUD-on-spreadsheet/screens/screen2.png">
+<img src="https://github.com/abm6/nodejs-CRUD-on-spreadsheet/screens/screen3.png">
+<img src="https://github.com/abm6/nodejs-CRUD-on-spreadsheet/screens/screen4.png">
+<img src="https://github.com/abm6/nodejs-CRUD-on-spreadsheet/screens/screen5.png">
+<img src="https://github.com/abm6/nodejs-CRUD-on-spreadsheet/screens/screen6.png">
+<img src="https://github.com/abm6/nodejs-CRUD-on-spreadsheet/screens/screen7.png">
+<img src="https://github.com/abm6/nodejs-CRUD-on-spreadsheet/screens/screen8.png">
